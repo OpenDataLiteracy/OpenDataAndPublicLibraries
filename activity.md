@@ -3,7 +3,7 @@ Title: Why are Web Literacy Skills Necessary?
 Date: 07.18.2017
 ---
 
-## Session overview: 
+## Session overview (5 min)
 
 This session is about trying to understand - collectively - how to frame a hard problem like web literacy for stakeholders. I consistently face two challenges in teaching and advocating for web literacy: 
 
@@ -17,7 +17,7 @@ Some things we can do to frame this problem:
 - Web as Sociotechnical Infrastructure - Web Literacy Leaders have some experience observing and interpreting, so does this help? 
 - Future directions in studying the web literacy as sociotechnical infrastructure 
 
-## Activity 1: Two Web Literacy Truths and a Lie ( 10 min)
+## Activity 1: Two Web Literacy Truths and a Lie (10 min)
 In groups:
 
 - Share two things you understood about the web literacy framework, and one thing you had to google. 
@@ -80,7 +80,7 @@ Dimensions:
 - **Built on an installed base:** Infrastructure   does  not grow  de novo:  it  wrestles  with  the  "inertia  of  the  in-stalled  base"  and  inherits  strengths  and  limitations from   that  base.  Optical fibers  run  along  old  rail-road  lines;  new  systems  are  designed  for  backward-compatibility;  and  failing  to  account  for  these  constraints may be fatal  or distorting  to new  development processes.  
 - **Becomes visible upon breakdown:**  The normally  invisible  quality  of  working  infrastructure  becomes  visible when  it breaks; the  server  is down,  the bridge  washes out,  there  is  a  power  blackout.  Even when there  are back-up mechanisms or procedures, their existence  further highlights the now-visible  infrastructure. 
 
-## Bringing this together
+## Bringing this together (10 min)
 The complications of web literacy are many. In this session we have tried to understand two: 
 
 - The embarrassment of not knowing
