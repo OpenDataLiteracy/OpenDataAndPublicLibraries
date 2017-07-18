@@ -37,9 +37,12 @@ But I would argue its also a problem that is deeply complicated by people being 
 
 I call this the Cerf Effect - after the TCP/IP inventor Vint Cerf. He once gave a talk where he admitted that a title like "grandfather of the internet" was a bit uncomfortable because he no longer understood basic mechanics of how the internet worked. People constantly ask him to fix things wrong with their browser, and he's embarrassed by not knowing how. 
 
+**Discussion**
+- Challenges to the embarassment of web literacy? Is this somethng others encounter? Do you have any tricks of the tradto overcome this? 
+
 ## The Web as a Sociotechnical Infrastructure (10 min)
 
-One way to understand how people relate to a complicated phenomena like the web is to combine existing ideas  
+One way to understand how people relate to a emerging phenomena like the web is to draws on existing related work.   
 
 I particularly like thinking about the web in terms of a `sociotechncial infrastructure`. 
 
@@ -56,19 +59,11 @@ Infrastructure:
 This seems (to me) like a helpful way of thinking about literacy on the web. A sociotechnical system that is powered by open and standardized interfaces. 
 
 So, how might we learn from previous work on infrastructures to improve teaching, advocacy, and evaluation of web literacy?  
-
 ## Activity 2: Dimensions of the Web as a Sociotechnical Infrastructure (15 min)
 
 According to Star and Ruhleder (1996), there are 8 dimensions of an infrastructure (defined in detail below). 
 
 Individually - let's each choose one infrastructure dimension. 
-
-Try to use the dimension to explain a context in which you are teaching, studying, or promoting web literacy: 
-
-- Does this framing help? 
-- Does it need additional consideration? 
-- Can the definitions be expanded or improved for this particular setting? 
-
 
 Dimensions: 		
 - **Embeddedness:** Infrastructure  is "sunk"  into, inside of,  other  structures, social  arrangements  and  technologies
@@ -79,6 +74,14 @@ Dimensions:
 - **Embodiment of standards:** Modified  by scope and of-ten  by  conflicting  conventions,  infrastructure  takes  on transparency by plugging into other infrastructures  and tools in a standardized  fashion 
 - **Built on an installed base:** Infrastructure   does  not grow  de novo:  it  wrestles  with  the  "inertia  of  the  in-stalled  base"  and  inherits  strengths  and  limitations from   that  base.  Optical fibers  run  along  old  rail-road  lines;  new  systems  are  designed  for  backward-compatibility;  and  failing  to  account  for  these  constraints may be fatal  or distorting  to new  development processes.  
 - **Becomes visible upon breakdown:**  The normally  invisible  quality  of  working  infrastructure  becomes  visible when  it breaks; the  server  is down,  the bridge  washes out,  there  is  a  power  blackout.  Even when there  are back-up mechanisms or procedures, their existence  further highlights the now-visible  infrastructure. 
+
+**Discussion**
+
+Try to use the dimension to explain a context in which you are teaching, studying, or promoting web literacy: 
+
+- Does this framing help? 
+- Does it require additional considerations? 
+- Can the definitions be expanded or improved for this setting (web literacy outreach)? 
 
 ## Bringing this together (10 min)
 The complications of web literacy are many. In this session we have tried to understand two: 
